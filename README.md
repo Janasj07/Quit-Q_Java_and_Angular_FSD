@@ -1,1 +1,3 @@
-# Quit-Q_Java_and_Angular_FSD
+Project Name : Quit-Q Ecommerce Application
+Name : Janarthanan S
+E-mail : janapandian875@gmail.com
